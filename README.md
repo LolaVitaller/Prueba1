@@ -25,3 +25,7 @@ Con mas texto
 Mas texto
 
 Mucho más texto
+
+source 'https://rubygems.org'
+
+gem 'github-pages', group: :jekyll_plugins
