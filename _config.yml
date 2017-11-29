@@ -1,4 +1,4 @@
 theme: jekyll-theme-merlot
-title: web
+title: Blog
 repository: lolavitaller/Prueba1
 permalink: /:year/ :month/ :day/ :title
