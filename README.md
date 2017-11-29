@@ -1,6 +1,6 @@
 # Mi Proyecto
 
-##  Introducción
+##      Introducción
 
 Comenzaré por presentarme, mi nombre es Lola. Soy peluquera.
 
