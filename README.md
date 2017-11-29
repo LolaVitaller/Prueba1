@@ -2,7 +2,7 @@
 
 ##  Mis aficiones
 
-Comenzaré por presentarme, mi nombre es Lola.
+Comenzaré por presentarme, mi nombre es Lola. Soy peluquera.
 
 Esto es una lista:
 
